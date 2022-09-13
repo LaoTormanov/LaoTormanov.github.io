@@ -1,0 +1,18 @@
+.myComments {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    border-top: 2px solid #eeeff0;
+}
+
+.myComment {
+    margin-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #803685;
+    width: 90%;
+}
+
+.commTitle {
+    margin-bottom: 5px;
+}
